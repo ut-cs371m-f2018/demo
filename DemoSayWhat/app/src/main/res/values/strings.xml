@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SayWhat</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="saywhat1">Power could be intoxicating, but having no higher authority to turn to \u2014 being the final word \u2014 had a way of slowly crushing men of conscience\n -- Kyle Mills</string>
+    <string name="saywhat2">Professional success is hard, but it\'s not complicated.  The foundation to achievement and fulfillment, almost without excpetion, requires that you hone a useful craft and then apply it to things that people care about.\n\u2014Slashdot post 11/21/16</string>
+    <string name="saywhat3">We can\'t make ourselves want what\'s good for us or what\'s good for other people.  We don\'t get to choose the people we are.\n\u2014Donna Tartt</string>
+    <string name="saywhat4">I cannot imagine mastering the skills involved here without a clearer understanding of who is going to be impressed.\n\u2014Calvin and Hobbes</string>
+    <string name="saywhat5">Shame has gone missing from our lives, and that\'s a goddamn shame.\n\u2014Bette Midler</string>
+    <string name="saywhat6">Everything wants to be mediocre, so what it takes to make anything more than mediocre is such a fucking act of will.\n\u2014Ira Glass</string>
+
+    <string-array name="say_what_arr">
+        <item>Power could be intoxicating, but having no higher authority to turn to \u2014 being the final word \u2014 had a way of slowly crushing men of conscience\n\u2014Kyle Mills</item>
+        <item>Professional success is hard, but it\'s not complicated.  The foundation to achievement and fulfillment, almost without excpetion, requires that you hone a useful craft and then apply it to things that people care about.\n\u2014Slashdot post 11/21/16</item>
+        <item>We can\'t make ourselves want what\'s good for us or what\'s good for other people.  We don\'t get to choose the people we are.\n\u2014Donna Tartt</item>
+        <item>I cannot imagine mastering the skills involved here without a clearer understanding of who is going to be impressed.\n\u2014Calvin and Hobbes</item>
+        <item>Shame has gone missing from our lives, and that\'s a goddamn shame.\n\u2014Bette Midler</item>
+        <item>Everything wants to be mediocre, so what it takes to make anything more than mediocre is such a fucking act of will.\n\u2014Ira Glass</item>
+    </string-array>
+</resources>
